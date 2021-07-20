@@ -1,0 +1,56 @@
+<app-header></app-header>
+
+<section class="section">
+  <h1 class="title">Welcome to the Roman Armor Museum</h1>
+  <h2 class="subtitle">
+    Select an exhibit to begin your tour!
+  </h2>
+  <div class="tile is-ancestor">
+    <div class="tile is-vertical is-8">
+      <div class="tile">
+        <div class="tile is-parent is-vertical">
+          <article 
+            class="tile is-child notification is-primary"
+            (click)="goToPage('/timeline')">
+            <p class="title">Timeline</p>
+            <p class="subtitle">An interactive timeline of Roman armor</p>
+          </article>
+          <article class="tile is-child notification is-warning">
+            <p class="title">Gladiators</p>
+            <p class="subtitle">A fight against all odds</p>
+          </article>
+        </div>
+        <div class="tile is-parent">
+          <article class="tile is-child notification is-info">
+            <p class="title">Helmets</p>
+            <p class="subtitle">Explore the world of Roman helmets</p>
+            <figure class="image">
+              <img src="https://i.pinimg.com/originals/66/a0/ae/66a0ae88b3357fdca8ebe18a2a59eefe.png">
+            </figure>
+          </article>
+        </div>
+      </div>
+      <div class="tile is-parent">
+        <article class="tile is-child notification is-danger">
+          <p class="title">Sources</p>
+          <p class="subtitle">A complete bibliography of referenced sources</p>
+          <div class="content">
+            <!-- Content -->
+          </div>
+        </article>
+      </div>
+    </div>
+    <div class="tile is-parent">
+      <article class="tile is-child notification is-success">
+        <div class="content">
+          <p class="title">Decorative Armor</p>
+          <p class="subtitle">Beyond the battle field, we see the use of Roman armor for ritualistic purposes. Valiant bronze and silver metals matched with red and purple cloth display royalty among men</p>
+          <figure class="image is-3by3">
+            <img src="https://i.pinimg.com/originals/18/ed/86/18ed86715aaf896b59b0e5462dbe7624.jpg">
+          </figure>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+

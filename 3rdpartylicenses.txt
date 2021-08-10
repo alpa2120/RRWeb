@@ -134,10 +134,6 @@ MIT
 MIT
 MIT
 
-bloomer-extensions@0.0.3
-MIT
-MIT
-
 @angular/platform-browser-dynamic@5.2.11
 MIT
 MIT

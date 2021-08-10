@@ -10,6 +10,7 @@ import { FormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
 import { MainEntranceComponent } from './components/main-entrance/main-entrance.component';
 import { TimelineComponent } from './components/timeline/timeline.component';
+import { DiagramComponent } from './components/diagram/diagram.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { TimelineComponent } from './components/timeline/timeline.component';
     HeaderComponent,
     FooterComponent,
     MainEntranceComponent,
-    TimelineComponent
+    TimelineComponent,
+    DiagramComponent
   ],
   imports: [
     BrowserModule,

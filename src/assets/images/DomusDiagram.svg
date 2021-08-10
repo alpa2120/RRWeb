@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 454.11">
+   <defs>
+        <style>
+            g {
+                opacity: 0.5;
+                cursor: pointer;
+            }
+            g:hover {
+                opacity: 1;
+                animation: fadeIn 1.5s infinite ease;
+                -webkit-animation: fadeIn 1.5s infinite ease;
+                -moz-animation: fadeIn 1.5s infinite ease;
+                -o-animation: fadeIn 1.5s infinite ease;
+            }
+            @keyframes fadeIn { 
+                0%   { opacity:0.5; }
+                50%  { opacity:1; }
+                100% { opacity:0.5; }
+            }
+            @-o-keyframes fadeIn{
+                0%   { opacity:0.5; }
+                50%  { opacity:1; }
+                100% { opacity:0.5; }
+            }
+            @-moz-keyframes fadeIn{
+                0%   { opacity:0.5; }
+                50%  { opacity:1; }
+                100% { opacity:0.5; }
+            }
+            @-webkit-keyframes fadeIn{
+                0%   { opacity:0.5; }
+                50%  { opacity:1; }
+                100% { opacity:0.5; }
+            }
+            #Outline{
+                opacity: 1 !important;
+                cursor: default;
+                animation: none;
+            }
+            .cls-1{
+                fill:#3950a1;
+            }
+            .cls-2{
+                fill:#6ac8ca;
+            }
+            .cls-3{
+                fill:#67bc45;
+            }
+            .cls-4{
+                fill:#ea3f96;
+            }
+            .cls-5{
+                fill:#e96024;
+            }
+            .cls-6{
+                fill:#19aa4b;
+            }
+            .cls-7{
+                fill:#59499d;
+            }
+            .cls-8{
+                fill:#8c2873;
+            }
+            .cls-9{
+                fill:#f08828;
+            }
+            .cls-10{
+                fill:#ec1e24;
+            }
+            .cls-11{
+                fill:#6abc45;
+            }
+            .cls-12{
+                fill:#dee22b;
+            }
+            .cls-13{
+                fill:#3651a2;
+            }
+            .cls-14{
+                fill:#1515ed;
+            }
+            .cls-15{
+                fill:#bfbfbf;
+            }
+            .cls-15,.cls-16{
+                stroke:#231f20;
+                stroke-miterlimit:10;
+                stroke-width:1.88px;
+            }
+            .cls-16{
+                fill:#f0f0f0;
+            }
+        </style>
+    </defs>
+   <g id="Exedra">
+      <rect class="cls-1" x="11.72" y="177.92" width="99.98" height="141.29" />
+   </g>
+   <g id="Piscina">
+      <rect class="cls-2" x="233.13" y="242.7" width="112.09" height="93.9" />
+   </g>
+   <g id="Culina">
+      <rect class="cls-3" x="190.3" y="12.17" width="233.93" height="123.03" />
+   </g>
+   <g id="Peristylium">
+      <path class="cls-4" d="M111.7,134.91V442.83H466.24V134.91ZM356.5,347.82H221.93V231.47L357,231.42Z" />
+   </g>
+   <g id="Triclinium">
+      <rect class="cls-5" x="466.26" y="330.49" width="112.34" height="112.34" />
+   </g>
+   <g id="Fauces">
+      <rect class="cls-6" x="466.24" y="288.5" width="123.64" height="30.71" />
+      <rect class="cls-6" x="466.24" y="134.91" width="123.64" height="30.71" />
+   </g>
+   <g id="Tablinum">
+      <rect class="cls-7" x="466.26" y="177.81" width="123.62" height="99.41" />
+   </g>
+   <g id="Atrium">
+      <path class="cls-8" d="M589.88,134.91V319.2H888.94V134.91ZM796.79,261.55H681.49v-68h115.3Z" />
+   </g>
+   <g id="Impluvium">
+      <rect class="cls-2" x="693.39" y="204.85" width="92.05" height="45.26" />
+   </g>
+   <g id="Alae">
+      <rect class="cls-9" x="590.02" y="319.2" width="92.2" height="123.3" />
+      <rect class="cls-9" x="590.02" y="11.86" width="92.2" height="123.05" />
+   </g>
+   <g id="Ostium">
+      <path class="cls-10" d="M1058.41,204.89c-.28,0-.55,0-.82,0v-8.17h-20.77v61.52h20.77V248c.27,0,.54,0,.82,0a21.59,21.59,0,0,0,0-43.18Z" />
+   </g>
+   <g id="Tabernae">
+      <rect class="cls-11" x="900.22" y="12.17" width="136.6" height="150.29" />
+      <rect class="cls-11" x="900.22" y="292.56" width="136.6" height="150.29" />
+   </g>
+   <g id="Vestibulum">
+      <rect class="cls-12" x="888.94" y="173.74" width="147.88" height="107.53" />
+   </g>
+   <g id="Cubiculum">
+      <rect class="cls-13" x="693.37" y="12.17" width="195.56" height="122.74" />
+      <rect class="cls-13" x="693.37" y="319.48" width="195.56" height="122.74" />
+   </g>
+   <g id="Posticum">
+      <rect class="cls-14" x="434.99" width="31.27" height="134.91" />
+   </g>
+   <g id="Outline">
+      <path class="cls-15" d="M466.24.88v133.7l123.64,0V92.69H578.6v30.58H477.53V12.17H578.6V41.64h11.28V12.17h92.21V134.56l41.53,0,0-11.29-30.27,0V12.17H785.5V123.29l-30.37,0,0,11.28,72,.08V123.33l-30.3,0V12.17h92.15V123.29l-30.07,0,0,11.28,30.09,0v39.16h147.88v23h11.29V.88Zm570.58,161.58H900.22V93h136.6Zm0-80.73H900.22V12.17h136.6Z" />
+      <path class="cls-15" d="M1036.82,258.28v23H888.94v38l-30.7,0v11.28l30.7,0V442.83H796.79V330.47l30.7,0,0-11.29-72.69,0,0,11.28,30.7,0V442.83H693.37V330.47l30.69,0,0-11.29-42,0V442.83H589.88V319.19H466.24v11.29H578.6V442.83H477.53V412.12H466.24v30.71H112.1V361.19H100.82v81.64H11.72V330.49H112.1V319.2H11.72V177.8H112.1V166.51H11.72V12.17h89.1v123h30.7l0-11.28-19.44,0V12.17h69.58V123.91l-19.42,0,0,11.29,50.14,0V123.93l-19.41,0V12.17h69.55V123.91l-19.39,0,0,11.29,50.12,0,0-11.28-19.44,0V12.17h69.58V123.91l-19.42,0,0,11.29,50.14,0V123.93l-19.42,0V12.17h69.56V123.91l-19.4,0,0,11.29,30.71,0,0-134.33H.42V454.11H1048.11V258.28Zm0,184.55H900.22V373.34l136.6,0Zm0-80.81-136.6,0V292.56h136.6Z" />
+      <path class="cls-15" d="M221.84,231.42V347.89H356.5V231.42ZM345.21,336.6H233.13V242.7H345.21Z" />
+      <path class="cls-15" d="M682,193.53v68H796.77v-68Zm103.42,56.58H693.39V204.85h92.06Z" />
+      <rect class="cls-16" x="1036.82" y="306.68" width="11.29" height="41.22" />
+      <rect class="cls-16" x="1036.82" y="387.36" width="11.29" height="41.22" />
+      <polygon class="cls-15" points="466.24 166.52 466.24 207.9 477.53 207.9 477.53 177.81 589.88 177.81 589.88 166.52 466.24 166.52" />
+      <polygon class="cls-15" points="477.53 247.73 466.24 247.73 466.24 288.5 589.88 288.5 589.88 277.21 477.53 277.21 477.53 247.73" />
+      <rect class="cls-16" x="1036.82" y="107.12" width="11.29" height="41.22" />
+      <rect class="cls-16" x="1036.82" y="26.44" width="11.29" height="41.22" />
+      <circle class="cls-15" cx="190.3" cy="202.76" r="7.06" />
+      <circle class="cls-15" cx="223.22" cy="202.76" r="7.06" />
+      <circle class="cls-15" cx="256.14" cy="202.76" r="7.06" />
+      <circle class="cls-15" cx="289.06" cy="202.76" r="7.06" />
+      <circle class="cls-15" cx="321.98" cy="202.76" r="7.06" />
+      <circle class="cls-15" cx="354.89" cy="202.76" r="7.06" />
+      <circle class="cls-15" cx="387.81" cy="202.76" r="7.06" />
+      <circle class="cls-15" cx="190.3" cy="237.46" r="7.06" />
+      <circle class="cls-15" cx="387.81" cy="237.46" r="7.06" />
+      <circle class="cls-15" cx="190.3" cy="272.16" r="7.06" />
+      <circle class="cls-15" cx="387.81" cy="272.16" r="7.06" />
+      <circle class="cls-15" cx="190.3" cy="306.86" r="7.06" />
+      <circle class="cls-15" cx="387.81" cy="306.86" r="7.06" />
+      <circle class="cls-15" cx="190.3" cy="341.56" r="7.06" />
+      <circle class="cls-15" cx="387.81" cy="341.56" r="7.06" />
+      <circle class="cls-15" cx="190.3" cy="376.26" r="7.06" />
+      <circle class="cls-15" cx="223.22" cy="376.26" r="7.06" />
+      <circle class="cls-15" cx="256.14" cy="376.26" r="7.06" />
+      <circle class="cls-15" cx="289.06" cy="376.26" r="7.06" />
+      <circle class="cls-15" cx="321.98" cy="376.26" r="7.06" />
+      <circle class="cls-15" cx="354.89" cy="376.26" r="7.06" />
+      <circle class="cls-15" cx="387.81" cy="376.26" r="7.06" />
+      <circle class="cls-15" cx="671.14" cy="183.34" r="5.42" />
+      <circle class="cls-15" cx="671.14" cy="271.73" r="5.42" />
+      <circle class="cls-15" cx="807.66" cy="271.73" r="5.42" />
+      <circle class="cls-15" cx="807.66" cy="183.34" r="5.42" />
+      <circle class="cls-15" cx="671.14" cy="212.8" r="5.42" />
+      <circle class="cls-15" cx="671.14" cy="242.27" r="5.42" />
+      <circle class="cls-15" cx="705.27" cy="271.73" r="5.42" />
+      <circle class="cls-15" cx="739.4" cy="271.73" r="5.42" />
+      <circle class="cls-15" cx="773.53" cy="271.73" r="5.42" />
+      <circle class="cls-15" cx="807.66" cy="242.27" r="5.42" />
+      <circle class="cls-15" cx="807.66" cy="212.8" r="5.42" />
+      <circle class="cls-15" cx="773.53" cy="183.34" r="5.42" />
+      <circle class="cls-15" cx="739.4" cy="183.34" r="5.42" />
+      <circle class="cls-15" cx="705.27" cy="183.34" r="5.42" />
+   </g>
+</svg>

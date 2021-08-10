@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DiagramComponent implements OnInit {
 
-  selectedModal: number = 0;
+  selectedModal: number = 17;
 
   showOutside: boolean = false;
 
@@ -28,7 +28,8 @@ export class DiagramComponent implements OnInit {
     Peristylium: 13,
     Piscina: 14,
     Exedra: 15,
-    Fauces: 16
+    Fauces: 16,
+    Welcome: 17
   }
 
   constructor() { }

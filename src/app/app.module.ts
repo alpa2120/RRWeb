@@ -11,6 +11,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { MainEntranceComponent } from './components/main-entrance/main-entrance.component';
 import { TimelineComponent } from './components/timeline/timeline.component';
 import { DiagramComponent } from './components/diagram/diagram.component';
+import { BibliographyComponent } from './components/bibliography/bibliography.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { DiagramComponent } from './components/diagram/diagram.component';
     FooterComponent,
     MainEntranceComponent,
     TimelineComponent,
-    DiagramComponent
+    DiagramComponent,
+    BibliographyComponent
   ],
   imports: [
     BrowserModule,

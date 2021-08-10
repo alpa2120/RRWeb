@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+import { BibliographyComponent } from './components/bibliography/bibliography.component';
 import { DiagramComponent } from './components/diagram/diagram.component';
 import { HomePageComponent } from './components/home-page/home-page.component';
 import { MainEntranceComponent } from './components/main-entrance/main-entrance.component';
@@ -7,7 +8,7 @@ import { TimelineComponent } from './components/timeline/timeline.component';
 
 const routes: Routes = [
   {
-    path: '',
+    path: 'home',
     pathMatch: 'full',
     component: HomePageComponent
   },
@@ -17,12 +18,12 @@ const routes: Routes = [
     component: MainEntranceComponent
   },
   {
-    path: 'timeline',
+    path: 'bibliography',
     pathMatch: 'full',
-    component: TimelineComponent
+    component: BibliographyComponent
   },
   {
-    path: 'diagram',
+    path: '',
     pathMatch: 'full',
     component: DiagramComponent
   },
